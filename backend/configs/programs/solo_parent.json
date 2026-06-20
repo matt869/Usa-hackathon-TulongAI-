@@ -1,0 +1,28 @@
+{
+  "id": "solo_parent",
+  "name": "Solo Parent Benefits (RA 11861)",
+  "agency": "DSWD / LGU",
+  "description": "Legal benefits for solo parents including Solo Parent ID, additional leave, and priority in government programs",
+  "benefits": "7-day paid leave/year, 10% discount on baby essentials, priority in 4Ps and housing, educational support for children",
+  "eligibility_rules": {
+    "is_solo_parent": true,
+    "min_monthly_income_max_for_priority": 25000
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Solo Parent ID application form (from MSWDO)",
+    "Valid government-issued ID",
+    "Birth Certificate of child/children",
+    "Death Certificate of spouse (if widowed)",
+    "Annulment/Separation documents (if applicable)",
+    "Affidavit of Solo Parent status",
+    "Barangay Certificate"
+  ],
+  "office": "Municipal Social Welfare and Development Office (MSWDO)",
+  "next_steps": [
+    "Apply for Solo Parent ID at your MSWDO",
+    "Submit documentary proof of solo parenting status",
+    "Receive Solo Parent ID valid for 1 year (renewable)",
+    "Present ID when applying for 4Ps, housing, or educational aid for priority"
+  ]
+}

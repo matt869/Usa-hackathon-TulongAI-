@@ -1,0 +1,25 @@
+{
+  "id": "pwd_benefits",
+  "name": "PWD Benefits (Magna Carta for Disabled Persons / RA 7277)",
+  "agency": "LGU / MSWDO / NCDA",
+  "description": "Legal entitlements for persons with disability including ID, discounts, and priority in employment and education",
+  "benefits": "20% discount on medicines, medical/diagnostic services, and basic necessities; 5% VAT exemption; priority in government programs",
+  "eligibility_rules": {
+    "is_pwd": true
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Medical Certificate from licensed physician (within 1 year)",
+    "Valid government-issued ID",
+    "1x1 and 2x2 ID photos",
+    "Barangay Certificate of Residency",
+    "PWD ID application form (from MSWDO or PDAO)"
+  ],
+  "office": "Municipal Social Welfare Office (MSWDO) or Persons with Disability Affairs Office (PDAO)",
+  "next_steps": [
+    "Get a medical certificate confirming your disability from a licensed doctor",
+    "Apply for PWD ID at MSWDO or PDAO",
+    "Receive PWD ID booklet (valid 5 years)",
+    "Present PWD ID for discounts at pharmacies, hospitals, and transport"
+  ]
+}

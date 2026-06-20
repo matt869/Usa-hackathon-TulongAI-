@@ -1,0 +1,27 @@
+{
+  "id": "unifast_tes",
+  "name": "Tertiary Education Subsidy (TES / UniFAST)",
+  "agency": "CHED / UniFAST",
+  "description": "Government subsidy for college students from low-income households to cover tuition and living allowance",
+  "benefits": "Up to ₱60,000/year (tuition + allowance) for eligible college students in SUCs and private HEIs",
+  "eligibility_rules": {
+    "has_college_student": true,
+    "max_household_income": 400000,
+    "listahanan_priority": true
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Certificate of Enrollment from HEI",
+    "Validated school ID",
+    "Household head valid ID",
+    "Proof of income (ITR, Certificate of No Income, or Barangay Indigency)",
+    "Listahanan 3.0 reference number (if available)"
+  ],
+  "office": "UniFAST through your college/university Financial Aid Office or CHED Regional Office",
+  "next_steps": [
+    "Check TES availability at your college's Financial Aid Office",
+    "Ensure student is enrolled in a CHED-recognized program",
+    "Submit household income documents during TES application window",
+    "Monitor UniFAST portal (unifast.gov.ph) for grant status"
+  ]
+}

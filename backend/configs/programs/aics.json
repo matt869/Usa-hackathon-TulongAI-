@@ -1,0 +1,28 @@
+{
+  "id": "aics",
+  "name": "Assistance to Individuals in Crisis Situation (AICS)",
+  "agency": "DSWD",
+  "description": "Immediate financial or material aid for Filipinos facing sudden crisis — medical emergency, death in family, fire, or displacement",
+  "benefits": "Medical, burial, transportation, or educational assistance (amount varies by LGU, typically ₱3,000–₱15,000)",
+  "eligibility_rules": {
+    "in_crisis_or_low_income": true,
+    "max_monthly_income": 15000,
+    "any_employment_status": true
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Valid government-issued ID",
+    "Barangay Certificate of Indigency or Residency",
+    "Medical Certificate or Hospital Bill (for medical aid)",
+    "Death Certificate (for burial aid)",
+    "Police or BFP Report (for fire/disaster)",
+    "Social Case Study from MSWDO"
+  ],
+  "office": "Municipal/City Social Welfare and Development Office (MSWDO) or DSWD Field Office",
+  "next_steps": [
+    "Visit your MSWDO with supporting documents for your crisis type",
+    "Request a social case study interview with a social worker",
+    "Submit requirements and wait for assessment (usually same-day to 3 days)",
+    "Receive guarantee letter or direct assistance if approved"
+  ]
+}

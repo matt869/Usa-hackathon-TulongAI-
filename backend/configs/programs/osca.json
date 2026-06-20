@@ -1,0 +1,26 @@
+{
+  "id": "osca",
+  "name": "Senior Citizen Benefits (OSCA / RA 9994)",
+  "agency": "LGU / OSCA",
+  "description": "Mandatory benefits for Filipinos aged 60+ including discounts, social pension, and priority services",
+  "benefits": "20% discount on medicines, medical services, transport, and utilities; ₱500/month social pension (indigent); priority lanes",
+  "eligibility_rules": {
+    "min_age": 60,
+    "is_senior": true
+  },
+  "conflicts_with": [],
+  "documents": [
+    "Valid government-issued ID showing birthdate",
+    "PSA Birth Certificate (if ID age unclear)",
+    "1x1 ID photo",
+    "Barangay Certificate of Residency",
+    "Indigency Certificate (for social pension only)"
+  ],
+  "office": "Office of Senior Citizens Affairs (OSCA) at your City/Municipal Hall",
+  "next_steps": [
+    "Visit OSCA at your LGU to apply for Senior Citizen ID",
+    "Bring valid ID and 1x1 photo",
+    "Register for OSCA membership card (free)",
+    "If indigent (no pension, low income), apply separately for Social Pension via DSWD"
+  ]
+}
